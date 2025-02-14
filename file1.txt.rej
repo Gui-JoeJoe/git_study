@@ -1,0 +1,10 @@
+diff a/file1.txt b/file1.txt	(rejected hunks)
+@@ -1,4 +1,5 @@
+ a功能完成50%。
+ a功能完成100%。
+ b功能完成50%。
+-b功能完成100%。
+\ No newline at end of file
++b功能完成100%。
++c功能完成100%。
+\ No newline at end of file
